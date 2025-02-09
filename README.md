@@ -1,5 +1,4 @@
 # flask-simple-test
 
-#Create Virtualenv
-
+# python -m venv venv
 
